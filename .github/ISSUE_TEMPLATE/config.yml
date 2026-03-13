@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email Support
+    url: mailto:support@ramsio.tools
+    about: Contact us directly via email for urgent issues
+  - name: Support Page
+    url: https://www.ramsio.tools/support
+    about: Visit our support page for FAQs and documentation
